@@ -1,0 +1,12 @@
+abstract.tex
+linenumbers_maketitl.tex
+sectionIntroduction_.tex
+textbfWhy.tex
+sectionMaterials_and.tex
+figures/Strain_Plan/Strain_Plan.png
+The_strains_we_use.tex
+mylabel.tex
+subsectionIndividual.tex
+figures/growthrates/growthrates.png
+While_this_simple_mo.tex
+sectionResults_and_D.tex

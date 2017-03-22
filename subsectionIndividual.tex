@@ -1,0 +1,18 @@
+\subsection{Individual growth rates}
+
+Following \citep{lenski:AmNat:1991} we measure the Malthusian growth parameters of each individual strain.
+We calculate the dynamics of individual yeast strains as they grow, independently with each having a carrying capacity of $K$.
+Thus the general dynamics can be represented can be captured by the standard logistic equations given by
+
+\begin{equation}
+	\dot{x}_i = s_i x_i (1 - x_i/K) 
+\end{equation}
+
+and for two types grown together this is denoted by
+
+\begin{align}
+	\dot{x}_{ia} = (r_{ia \rightarrow ia } x_{ia} + r_{ib \rightarrow ia } x_{ib})  (1 - (x_{ia}+x_{ib})/K) \nonumber \\
+	\dot{x}_{ib} = (r_{ia \rightarrow ib } x_{ia} + r_{ib \rightarrow ib } x_{ib}) (1 - (x_{ia}+x_{ib})/K)
+\end{align}
+and we denote the frequency of this community by $x_i = x_{ia} + x_{ib}$.
+Comparing the model together with the data we see that the model dynamics captures well the population dynamics of the single inoculums as well as the community expansion.
