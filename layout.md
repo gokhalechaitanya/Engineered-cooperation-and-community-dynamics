@@ -11,5 +11,3 @@ figures/growthrates/growthrates.png
 While_this_simple_mo.tex
 sectionResults_and_D.tex
 da97.html
-c5c3.html
-c4c6.html
